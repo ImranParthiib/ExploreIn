@@ -20,7 +20,7 @@ superuser: true
 role: 🅳🅴🆅🅴🅻🅾🅿🅴🆁 | 🅿🆁🅾🅶🆁🅰🅼🅼🅴🆁 | 🆁🅴🅵🅾🆁🅼🅴🆁 | 🆆🆁🅸🆃🅴🆁
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Daffodil International University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,34 +28,34 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Development 
+  - Web Development
+  - AI Implementation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science and Engineering
+      institution: Daffodil International University
+      year: 2024
+    - course: Web Development
+      institution: [Programming Hero](https://www.programming-hero.com/)
+      year: 2024
+    - course: HSc in Science
+      institution: BAF Shaheen College, Jessore
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Javascript
         description: ""
         percent: 80
-        icon: python
+        icon: javascript
         icon_pack: fab
-      - name: Data Science
+      - name: Wev Development
         description: ""
         percent: 100
         icon: chart-line
