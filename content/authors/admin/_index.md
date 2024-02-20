@@ -3,7 +3,7 @@
 title: Imran Parthib
 
 # Name pronunciation (optional)
-name_pronunciation: Imran Parthib
+# name_pronunciation: Imran Parthib
 
 # Full name (for SEO)
 first_name: Imran
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 🅳🅴🆅🅴🅻🅾🅿🅴🆁 | 🅿🆁🅾🅶🆁🅰🅼🅼🅴🆁 | 🆁🅴🅵🅾🆁🅼🅴🆁 | 🆆🆁🅸🆃🅴🆁 
+role: 🅳🅴🆅🅴🅻🅾🅿🅴🆁 | 🅿🆁🅾🅶🆁🅰🅼🅼🅴🆁 | 🆁🅴🅵🅾🆁🅼🅴🆁 | 🆆🆁🅸🆃🅴🆁
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
@@ -51,36 +51,36 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
-        description: ''
+        description: ""
         percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
-        description: ''
+        description: ""
         percent: 40
         icon: database
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Hiking
-        description: ''
+        description: ""
         percent: 60
         icon: person-hiking
         icon_pack: fas
       - name: Cats
-        description: ''
+        description: ""
         percent: 100
         icon: cat
         icon_pack: fas
       - name: Photography
-        description: ''
+        description: ""
         percent: 80
         icon: camera-retro
         icon_pack: fas
@@ -92,7 +92,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
